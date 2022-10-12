@@ -1,10 +1,10 @@
 Hello everyone, thanks for viewing this repository. I am currently taking Data Scinetists with Python course on DataCamp, and I will be updating this repository while I move forward on the course. Stay tuned !
 
-| Course                                                                | Exercise Solutions Links | 
-|--------                                                               |-------------------:|
-| Introduction to Python                                                |      [Introduction To Python](https://github.com/aysenazakpinar/DataScientistWithPython/tree/main/IntroductionToPython)        |   |
-| Intermediate Python                                                   |                    | 
-| PROJECT Investigating Netflix Movies and Guest Stars in The Office    |                    | 
+| Course                                                                | Exercise Solutions Links      | 
+|--------                                                               |-------------------:           |
+| Introduction to Python                                                |      [Introduction To Python](https://github.com/aysenazakpinar/DataScientistWithPython/tree/main/IntroductionToPython)              |
+| Intermediate Python                                                   | [Intermediate Python](https://github.com/aysenazakpinar/DataScientistWithPython/tree/main/IntermediatePython)                | 
+| PROJECT Investigating Netflix Movies and Guest Stars in The Office    |                               | 
 Data Manipulation with pandas	
 Joining Data with pandas
 Introduction to Statistics in Python
