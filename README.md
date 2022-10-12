@@ -4,7 +4,7 @@ Hello everyone, thanks for viewing this repository. I am currently taking Data S
 |--------                                                               |-------------------:           |
 | Introduction to Python                                                |      [Introduction To Python](https://github.com/aysenazakpinar/DataScientistWithPython/tree/main/IntroductionToPython)              |
 | Intermediate Python                                                   | [Intermediate Python](https://github.com/aysenazakpinar/DataScientistWithPython/tree/main/IntermediatePython)                | 
-| PROJECT Investigating Netflix Movies and Guest Stars in The Office    |                               | 
+| PROJECT Investigating Netflix Movies and Guest Stars in The Office    |[Netflix Project](https://github.com/aysenazakpinar/DataScientistWithPython/tree/main/Netflix)                           | 
 Data Manipulation with pandas	
 Joining Data with pandas
 Introduction to Statistics in Python
