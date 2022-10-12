@@ -1,3 +1,5 @@
+Hello everyone, thanks for viewing this repository. I am currently taking Data Scinetists with Python course on DataCamp, and I will be updating this repository while I move forward on the course. Stay tuned !
+
 | Course                                                                | Exercise Solutions | 
 |--------                                                               |-------------------:|
 | Introduction to Python                                                |                    |
